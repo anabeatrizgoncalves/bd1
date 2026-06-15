@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-# Tem que preencher isso aqui de acordo com o PC que vai ter o banco de dados, ai a gente ve melhor isso
+# Preencher com os dados do computador local utilizado
 USER = ""
 PASSWORD = ""
 HOST = ""
